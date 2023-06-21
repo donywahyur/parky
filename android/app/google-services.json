@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "466266407890",
+    "firebase_url": "https://detect-plat-8e807-default-rtdb.firebaseio.com",
+    "project_id": "detect-plat-8e807",
+    "storage_bucket": "detect-plat-8e807.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466266407890:android:6903c8f5f20c76f5b9fe0b",
+        "android_client_info": {
+          "package_name": "com.company.detect_plat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7RslDrNx-YGbgzZDSI17gMzfN0Cy9ERU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466266407890:android:1d51e72d3a608346b9fe0b",
+        "android_client_info": {
+          "package_name": "com.example.parky"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7RslDrNx-YGbgzZDSI17gMzfN0Cy9ERU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
